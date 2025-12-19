@@ -12,10 +12,12 @@ I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learni
 ## 🚀 Key Projects & Products
 
 ### [PCNportal](https://pcnportal.dccn.nl/) | Lead Software Engineer
-**A web-based platform for Normative Modelling in clinical neuroimaging.**
-* **The Product:** Developed the full-stack architecture for [PCNportal](https://pcnportal.dccn.nl/), a GUI-driven platform that allows researchers to apply pre-trained normative models to individual brain data without writing code.
+**A scalable platform for Normative Modelling and Brain-Mapping at large scale.**
+
+* **The Ecosystem:** Architected the portal to act as a **collaborative model repository**, allowing researchers worldwide to host and share their own pre-trained normative models. This design enables global scalability and standardized model deployment.
+* **Large-Scale Bayesian Inference:** Engineered the backend to handle models trained on **10,000+ brain scans** across heterogeneous data collection sites. 
 * **Engineering:** Implemented a distributed backend using **Docker** and **Flask**, capable of handling parallelized computation jobs on remote servers.
-* **Impact:** Published in [*Wellcome Open Research*](https://wellcomeopenresearch.org/articles/8-326), the portal facilitates large-scale neuropsychiatric research by making high-level predictive models accessible to the clinical community.
+* **Impact:** Published in [*Wellcome Open Research*](https://wellcomeopenresearch.org/articles/8-326).
 * **Tech:** Python, Flask, Docker, Shell (HPC/Torque), JavaScript.
 
 ### [Visual Perception Lab: Postdiction](https://github.com/VisualPerceptionLab/Postdiction) | Lead Scientist
