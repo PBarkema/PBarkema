@@ -38,7 +38,7 @@ I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learni
 * **Languages:** Python (Primary), MATLAB, C#, Shell/Bash, SQL.
 * **Research Stack:** PyTorch, MNE-Python, Scikit-Learn, Statsmodels.
 * **Infrastructure:** Docker, HPC (Slurm/Torque), Git/CI-CD, Flask.
-* **Domains:** Bayesian Modelling, Machine Vision, Probabilistic Learning, Signal Processing.
+* **Domains:** Machine Vision, Probabilistic Learning, Big Data Computing, Experiments.
 
 ---
 
