@@ -22,7 +22,8 @@ I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learni
 
 ### [Visual Perception Lab: Postdiction](https://github.com/VisualPerceptionLab/Postdiction) | Lead Scientist
 **Code for analysis of ultra-high resolution brain activity data used for Scientific Publishing.**
-    As lead Scientist and creator of this lab-owned project, I created a codebase for collecting real-time brain data (7T fMRI / MEG) collection during an audiovisual human experiment with millisecond precision. To analyze this data, I developed a pipeline for ultra high dimensional time series data to decode illusory perception from brain activity - resulting into a peer-reviewd publication on how the brain creates conscious perception (Barkema et al., 2025).
+* As lead Scientist and creator of this lab-owned project, I created a codebase for collecting real-time brain data (7T fMRI / MEG) collection during an audiovisual experiment with millisecond precision to induce illusions in humans.
+* I developed a pipeline to analyze this ultra high dimensional time series data and decode illusions from brain activity - resulting into a peer-reviewd publication (Barkema et al., 2025).
 * **Tech:** MATLAB, Bash, PsychToolBox, SPM.
 
 ### [CCI Analysis Pipeline](https://github.com/PBarkema/Donders-IV-code-portfolio) | Inventor & Lead Dev
