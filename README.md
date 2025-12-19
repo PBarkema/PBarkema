@@ -19,7 +19,7 @@ I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learni
 * **Tech:** Python, Flask, Docker, Shell (HPC/Torque), JavaScript.
 
 ### [CCI Analysis Pipeline](https://github.com/PBarkema/Donders-IV-code-portfolio) | Inventor & Lead Dev
-**Novel statistical framework for quantifying informative variance in cortical noise.**
+**Novel statistical framework for quantifying information from noisy brain responses.**
 * **The Innovation:** Invented the **Cross-Condition Information (CCI)** metric to solve the problem of "nuisance noise" in MEG/fMRI data.
 * **The Math:** Uses **Manifold Learning** and **Subspace Alignment** to prove that trial-by-trial neural variability is structured and functionally relevant to object recognition.
 * **Scalability:** Optimized for High-Performance Computing (HPC) to process multi-terabyte datasets.
