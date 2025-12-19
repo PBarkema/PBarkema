@@ -24,6 +24,7 @@ I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learni
 **Code for analysis of ultra-high resolution brain activity data used for Scientific Publishing.**
 * As lead Scientist and creator of this lab-owned project, I created a codebase for collecting real-time brain data (7T fMRI / MEG) collection during an audiovisual experiment with millisecond precision to induce illusions in humans.
 * I developed a pipeline to analyze this ultra high dimensional time series data and decode illusions from brain activity - resulting into a peer-reviewd publication (Barkema et al., 2025).
+* **Impact:** [*Talk at top conference VSS*](https://www.youtube.com/watch?v=UetvGUnviXQ).
 * **Tech:** MATLAB, Bash, PsychToolBox, SPM.
 
 ### [CCI Analysis Pipeline](https://github.com/PBarkema/Donders-IV-code-portfolio) | Inventor & Lead Dev
