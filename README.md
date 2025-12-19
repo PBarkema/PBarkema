@@ -18,16 +18,17 @@ I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learni
 * **Impact:** Published in [*Wellcome Open Research*](https://wellcomeopenresearch.org/articles/8-326), the portal facilitates large-scale neuropsychiatric research by making high-level predictive models accessible to the clinical community.
 * **Tech:** Python, Flask, Docker, Shell (HPC/Torque), JavaScript.
 
+### [Visual Perception Lab: Postdiction](https://github.com/VisualPerceptionLab/Postdiction) | Lead Scientist
+**Code for analysis of ultra-high resolution brain activity data used for Scientific Publishing.**
+    As lead Scientist and creator of this lab-owned project, I created a codebase for collecting real-time brain data (7T fMRI / MEG) collection during an audiovisual human experiment with millisecond precision. To analyze this data, I developed a pipeline for ultra high dimensional time series data to decode illusory perception from brain activity - resulting into a peer-reviewd publication on how the brain creates conscious perception (Barkema et al., 2025).
+* **Tech:** MATLAB, Bash, PsychToolBox, SPM.
+
 ### [CCI Analysis Pipeline](https://github.com/PBarkema/Donders-IV-code-portfolio) | Inventor & Lead Dev
 **Novel statistical framework for quantifying information from noisy brain responses.**
 * **The Innovation:** Invented the **Cross-Condition Information (CCI)** metric to solve the problem of "nuisance noise" in MEG/fMRI data.
 * **The Math:** Uses **Manifold Learning** and **Subspace Alignment** to prove that trial-by-trial neural variability is structured and functionally relevant to object recognition.
 * **Scalability:** Optimized for High-Performance Computing (HPC) to process multi-terabyte datasets.
 * **Tech:** Python (NumPy, SciPy), PCA, Bash.
-
-* **[Visual Perception Lab: Postdiction](https://github.com/VisualPerceptionLab/Postdiction)**
-    As lead Scientist and creator of this lab-owned project, I created a codebase for collecting real-time brain data (7T fMRI / MEG) collection during an audiovisual human experiment with millisecond precision. To analyze this data, I developed a pipeline for ultra high dimensional time series data to decode illusory perception from brain activity - resulting into a peer-reviewd publication on how the brain creates conscious perception (Barkema et al., 2025).
-* **Tech:** MATLAB, Bash, PsychToolBox, SPM.
 
 ---
 
