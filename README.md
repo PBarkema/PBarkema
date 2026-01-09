@@ -1,6 +1,6 @@
 # Pieter Barkema
 
-**Research Scientist & Software Engineer | Statistical Computing & Cognitive Neuroimaging** *Research Scientist on Human Perception and Computational Learning, and lead developer of PCNportal.*
+**Research Scientist & Software Engineer | Statistical Computing & Cognitive Neuroimaging** *Research Scientist on Human Perception and Computational Learning - developer of PCNportal.*
 
 ---
 
@@ -12,7 +12,7 @@ I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learni
 ## 🚀 Key Projects & Products
 
 ### [PCNportal](https://pcnportal.dccn.nl/) | Lead Software Engineer
-**A scalable platform for Normative Modelling and Brain-Mapping at large scale.**
+**A scalable platform for Statistical Modelling and Brain-Mapping at large scale.**
 
 * **The Ecosystem:** Architected the portal to act as a **collaborative model repository**, allowing researchers worldwide to host and share their own pre-trained normative models. This design enables global scalability and standardized model deployment.
 * **Large-Scale Bayesian Inference:** Engineered the backend to handle models trained on **10,000+ brain scans** across heterogeneous data collection sites. 
