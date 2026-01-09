@@ -1,6 +1,6 @@
 # Pieter Barkema
 
-*Research Scientist on Human and Machine Perception, and Computational Learning - developer of PCNportal.*
+Research Scientist on Human and Machine Perception, and Computational Learning - developer of PCNportal.
 ---
 
 ## 🚀 Key Projects & Products
