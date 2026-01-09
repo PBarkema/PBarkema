@@ -1,12 +1,6 @@
 # Pieter Barkema
 
 **Research Scientist & Software Engineer | Statistical Computing & Cognitive Neuroimaging** *Research Scientist on Human and Machine Perception, and Computational Learning - developer of PCNportal.*
-
----
-
-## 👋 About Me
-I specialize in the intersection of **Cognitive Neuroscience**, **Artificial Intelligence** and **Software Engineering**. My work focuses on building high-performance analytical tools that can interrogate **human & machine intelligence** with Machine Learning concepts, Cognition Theory & Experiments.
-
 ---
 
 ## 🚀 Key Projects & Products
