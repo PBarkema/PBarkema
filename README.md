@@ -1,29 +1,29 @@
 # Pieter Barkema
 
-**Research Scientist & Software Engineer | Statistical Computing & Cognitive Neuroimaging** *Research Scientist on Human Perception and Computational Learning - developer of PCNportal.*
+**Research Scientist & Software Engineer | Statistical Computing & Cognitive Neuroimaging** *Research Scientist on Human and Machine Perception, and Computational Learning - developer of PCNportal.*
 
 ---
 
 ## 👋 About Me
-I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learning** and **Software Engineering**. My work focuses on building high-performance analytical tools that bridge the gap between complex statistical theory, experiments and clinical application.
+I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learning** and **Software Engineering**. My work focuses on building high-performance analytical tools that can interrogate **human & machine intelligence** with Machine Learning concepts, Cognition theory & experiments.
 
 ---
 
 ## 🚀 Key Projects & Products
 
 ### [PCNportal](https://pcnportal.dccn.nl/) | Lead Software Engineer
-**A scalable platform for Statistical Modelling and Brain-Mapping at large scale.**
+**A scalable platform for Machine Learning & Transfer Learning for Brain-Mapping at large scale.**
 
-* **The Ecosystem:** Architected the portal to act as a **collaborative model repository**, allowing researchers worldwide to host and share their own pre-trained normative models. This design enables global scalability and standardized model deployment.
-* **Large-Scale Bayesian Inference:** Engineered the backend to handle models trained on **10,000+ brain scans** across heterogeneous data collection sites. 
+* **The Ecosystem:** Architected the portal to act as a **collaborative model repository**, allowing researchers worldwide to host and share their own pre-trained models. This design enables global scalability and standardized model deployment.
+* **Large-Scale Bayesian Inference:** Engineered the backend to handle models trained on **10,000+ brain scans** across heterogeneous data collection sites, and facilitate **Transfer Learning** on user data. 
 * **Engineering:** Implemented a distributed backend using **Docker** and **Flask**, capable of handling parallelized computation jobs on remote servers.
 * **Impact:** Published in [*Wellcome Open Research*](https://wellcomeopenresearch.org/articles/8-326).
 * **Tech:** Python, Flask, Docker, Shell (HPC/Torque), JavaScript.
 
 ### [Visual Perception Lab: Postdiction](https://github.com/VisualPerceptionLab/Postdiction) | Lead Scientist
 **Code for analysis of ultra-high resolution brain activity data used for Scientific Publishing.**
-* As lead Scientist and creator of this lab-owned project, I created a codebase for collecting real-time brain data (7T fMRI / MEG) collection during an audiovisual experiment with millisecond precision to induce illusions in humans.
-* I developed a pipeline to analyze this ultra high dimensional time series data and decode illusions from brain activity - resulting into a peer-reviewd publication (Barkema et al., 2025).
+* As lead Scientist and creator of this lab-owned project, I created a codebase for collecting real-time brain data (7T fMRI / MEG) collection during an audiovisual experiment with millisecond precision to induce audiovisual hallucinations in humans.
+* I developed a pipeline to analyze this ultra high dimensional time series data and decode illusions from brain activity - resulting into a peer-reviewed publication (Barkema et al., 2025).
 * **Impact:** [*Talk at top conference VSS*](https://www.youtube.com/watch?v=UetvGUnviXQ).
 * **Tech:** MATLAB, Bash, PsychToolBox, SPM.
 
@@ -50,5 +50,5 @@ I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learni
 * **Paper:** [Evidence for embracing normative modeling](https://elifesciences.org/articles/85082)]
 * **Software:** [PCNportal GitHub Repository](https://github.com/predictive-clinical-neuroscience/PCNportal)
 ### 📬 Connect with Me
-* **Focus:** Open to discussions on Computational Neuroscience, Research Engineering, and AI/ML Research roles.
+* **Focus:** Open to discussions on AI/ML Research roles, Research Engineering and Computational Neuroscience.
 * **Location:** London, United Kingdom.
