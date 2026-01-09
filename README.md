@@ -5,7 +5,7 @@
 ---
 
 ## 👋 About Me
-I specialize in the intersection of **Cognitive Neuroscience**, **Machine Learning** and **Software Engineering**. My work focuses on building high-performance analytical tools that can interrogate **human & machine intelligence** with Machine Learning concepts, Cognition theory & experiments.
+I specialize in the intersection of **Cognitive Neuroscience**, **Artificial Intelligence** and **Software Engineering**. My work focuses on building high-performance analytical tools that can interrogate **human & machine intelligence** with Machine Learning concepts, Cognition Theory & Experiments.
 
 ---
 
