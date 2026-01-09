@@ -47,7 +47,7 @@ I specialize in the intersection of **Cognitive Neuroscience**, **Artificial Int
 ## 📖 Publications & Resources
 * **Paper:** [PCNportal: a web interface for facilitating normative modelling](https://wellcomeopenresearch.org/articles/8-326)
 * **Paper:** [Early visual cortex encodes multisensory postdictive perception with retinotopic specificity: a layer-specific fMRI study](https://jov.arvojournals.org/article.aspx?articleid=2810028)
-* **Paper:** [Evidence for embracing normative modeling](https://elifesciences.org/articles/85082)]
+* **Paper:** [Evidence for embracing normative modeling](https://elifesciences.org/articles/85082)
 * **Software:** [PCNportal GitHub Repository](https://github.com/predictive-clinical-neuroscience/PCNportal)
 ### 📬 Connect with Me
 * **Focus:** Open to discussions on AI/ML Research roles, Research Engineering and Computational Neuroscience.
