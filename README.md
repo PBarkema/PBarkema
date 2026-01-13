@@ -23,13 +23,6 @@
 * **Impact:** [*Talk at top conference VSS*](https://www.youtube.com/watch?v=UetvGUnviXQ).
 * **Tech:** MATLAB, Bash, PsychToolBox, SPM.
 
-### [CCI Analysis Pipeline](https://github.com/PBarkema/Donders-IV-code-portfolio) | Inventor & Lead Dev
-**Novel statistical framework for quantifying information from noisy brain responses.**
-* **Innovation:** Invented the **Cross-Category Information (CCI)** metric to investigate "nuisance noise" in neural time series data (MEG).
-* **Math:** Uses **Manifold Learning** and **Subspace Alignment** to prove that trial-by-trial neural variability is structured and functionally relevant to object recognition.
-* **Scalability:** Optimized for High-Performance Computing (HPC) to process multi-terabyte datasets.
-* **Tech:** Python (NumPy, SciPy), PCA, Bash.
-
 ### [DeepCount-UQ](https://github.com/PBarkema/pCCN_Movement_Counter) | Developer & ML Engineer
 **Uncertainty-Quantified action counting in unconstrained video using Deep Learning.**
 * **Challenge:** Deep learning model for counting human movement and self-relection in "wild" videos (varying angles, lighting).
@@ -37,6 +30,13 @@
 * **Math:** Built using **PyTorch**, with a **temporal convolutional backbone** to track motion cycles, and **channel attention** to deal with angles.
 * **Impact:** A "bridge" project used to translate Uncertainty Theory into industry-standard **Uncertainty Quantification (UQ)** practices.
 * **Tech:** PyTorch, TorchVision, NumPy, OpenCV, HuggingFace.
+
+### [CCI Analysis Pipeline](https://github.com/PBarkema/Donders-IV-code-portfolio) | Inventor & Lead Dev
+**Novel statistical framework for quantifying information from noisy brain responses.**
+* **Innovation:** Invented the **Cross-Category Information (CCI)** metric to investigate "nuisance noise" in neural time series data (MEG).
+* **Math:** Uses **Manifold Learning** and **Subspace Alignment** to prove that trial-by-trial neural variability is structured and functionally relevant to object recognition.
+* **Scalability:** Optimized for High-Performance Computing (HPC) to process multi-terabyte datasets.
+* **Tech:** Python (NumPy, SciPy), PCA, Bash.
 
 ---
 
