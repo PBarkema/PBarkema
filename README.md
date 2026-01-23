@@ -14,7 +14,7 @@
 * **Large-Scale Learning and Inference:** Engineered the backend to handle Bayesian models trained on **10,000+ brain scans** across heterogeneous data collection sites, and facilitate **Transfer Learning** on user data. 
 * **Engineering:** Implemented a distributed backend using **Docker** and **Flask**, capable of handling parallelized computation jobs on remote servers.
 * **Impact:** Published in [*Wellcome Open Research*](https://wellcomeopenresearch.org/articles/8-326).
-* **Tech:** Python, Flask, Docker, Shell (HPC/Torque).
+* **Tech:** Python, Flask, Docker, Shell (HPC/Torque). **[Code here](https://github.com/predictive-clinical-neuroscience/PCNportal)** 
 
 ### [Visual Perception Lab: Postdiction](https://github.com/VisualPerceptionLab/Postdiction) | Lead Scientist
 **Code for analysis of ultra-high resolution brain activity data used for Scientific Publishing.**
