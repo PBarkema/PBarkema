@@ -13,12 +13,12 @@
 * **The App** Architected the portal to act as a **collaborative model repository**, allowing researchers worldwide to host and share their own pre-trained models. This design enables global scalability and standardized model deployment.
 * **Large-Scale Learning and Inference:** Engineered the backend to handle Bayesian models trained on **10,000+ brain scans** across heterogeneous data collection sites, and facilitate **Transfer Learning** on user data. 
 * **Engineering:** Implemented a distributed backend using **Docker** and **Flask**, capable of handling parallelized computation jobs on remote servers.
-* **Impact:** Published in [*Wellcome Open Research*](https://wellcomeopenresearch.org/articles/8-326).
+* **Impact:** Published in [*Wellcome Open Research*](https://wellcomeopenresearch.org/articles/8-326) and [*eLIFE*](https://elifesciences.org/articles/85082).
 * **Tech:** Python, Flask, Docker, Shell (HPC/Torque). **[Code here](https://github.com/predictive-clinical-neuroscience/PCNportal)** 
 
 ### [Visual Perception Lab: Postdiction](https://github.com/VisualPerceptionLab/Postdiction) | Lead Scientist
 **Code for analysis of ultra-high resolution brain activity data used for Scientific Publishing.**
-* As lead Scientist and creator of this lab-owned project, I created a codebase for collecting real-time brain data (7T fMRI / MEG) during an experiment that induces audiovisual illusions with millisecond precision in humans.
+* As lead Scientist and creator of this lab-owned project, I created a codebase for collecting real-time ultra precise brain data (7T fMRI / MEG) during an experiment that induces audiovisual illusions with millisecond precision in humans.
 * I developed a pipeline to analyze this ultra high dimensional time series data and decode visual illusions from brain activity - resulting into a peer-reviewed publication (Barkema et al., 2025).
 * **Impact:** [*Talk at top conference VSS*](https://www.youtube.com/watch?v=UetvGUnviXQ).
 * **Tech:** MATLAB, Bash, PsychToolBox, SPM.
