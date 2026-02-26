@@ -31,11 +31,11 @@
 * **Impact:** A "bridge" project used to translate Uncertainty Theory into industry-standard **Uncertainty Quantification (UQ)** practices.
 * **Tech:** PyTorch, TorchVision, NumPy, OpenCV, HuggingFace.
 
-### [Neuro-UQ](https://github.com/PBarkema/Hippo-UQ) | Creator & Researcher
+### [Neuro-UQ](https://github.com/PBarkema/Hippo-UQ) | Creator & Researcher (in progress)
 **Biologically-inspired Bayesian model for Uncertainty Quantification and OOD Detection.**
 * **The Concept:** Simulates how the human hippocampus tracks uncertainty and detects context switches, looking inside the "black box" of belief updating.
 * **AI Alignment & Safety:** Motivated by challenges in safe decision-making, this project explores out-of-distribution (OOD) detection and mechanistic interpretability in the brain by separating irreducible environmental noise from model ignorance.
-* **Innovation:** Demonstrates how high-precision priors cause a system to suppress unexpected sensory evidence—providing a biological analog to AI "hallucination" under overconfidence.
+* **Innovation:** Demonstrates how high-precision priors cause a system to suppress unexpected sensory evidence; providing a biological analog to AI "hallucination" under overconfidence.
 * **Tech:** Python, SciPy, NumPy, Matplotlib, Exact Bayesian Inference.
 
 ### [CCI Analysis Pipeline](https://github.com/PBarkema/Donders-IV-code-portfolio) | Inventor & Lead Dev
