@@ -13,7 +13,7 @@
 * **The App** Architected the portal to act as a **collaborative model repository**, allowing researchers worldwide to host and share their own pre-trained models. This design enables global scalability and standardized model deployment.
 * **Large-Scale Learning and Inference:** Engineered the backend to handle Bayesian models trained on **10,000+ brain scans** across heterogeneous data collection sites, and facilitate **Transfer Learning** on user data. 
 * **Engineering:** Implemented a distributed backend using **Docker** and **Flask**, capable of handling parallelized computation jobs on remote servers.
-* **Impact:** Published in [*Wellcome Open Research*](https://wellcomeopenresearch.org/articles/8-326) and [*eLIFE*](https://elifesciences.org/articles/85082).
+* **Impact:** Published in [*Wellcome Open Research*](https://wellcomeopenresearch.org/articles/8-326) and [*eLIFE*](https://elifesciences.org/articles/85082), contributed to open-source toolkit [*PCNtookit*](https://github.com/predictive-clinical-neuroscience/PCNtoolkit).
 * **Tech:** Python, Flask, Docker, Shell (HPC/Torque). **[Code here](https://github.com/predictive-clinical-neuroscience/PCNportal)** 
 
 ### [Visual Perception Lab: Postdiction](https://github.com/VisualPerceptionLab/Postdiction) | Lead Scientist
@@ -23,6 +23,13 @@
 * **Impact:** [*Talk at top conference VSS*](https://www.youtube.com/watch?v=UetvGUnviXQ).
 * **Tech:** MATLAB, Bash, PsychToolBox, SPM.
 
+### [Neuro-UQ](https://github.com/PBarkema/Neuro-UQ) | Creator & Researcher (in progress)
+**Biologically-inspired Bayesian model for Uncertainty Quantification and OOD Detection.**
+* **The Concept:** Simulates how the human hippocampus tracks uncertainty and detects context switches, looking inside the "black box" of belief updating.
+* **AI Alignment & Safety:** Motivated by challenges in safe decision-making, this project explores out-of-distribution (OOD) detection and mechanistic interpretability in the brain by separating irreducible environmental noise from model ignorance.
+* **Innovation:** Demonstrates how high-precision priors cause a system to suppress unexpected sensory evidence; providing a biological analog to AI "hallucination" under overconfidence.
+* **Tech:** Python, SciPy, NumPy, Matplotlib, Exact Bayesian Inference.
+
 ### [DeepCount-UQ](https://github.com/PBarkema/pCCN_Movement_Counter) | Developer & ML Engineer
 **Uncertainty-Quantified action counting in unconstrained video using Deep Learning.**
 * **Challenge:** Deep learning model for counting human movement and self-relection in "wild" videos (varying angles, lighting).
@@ -31,17 +38,10 @@
 * **Impact:** A "bridge" project used to translate Uncertainty Theory into industry-standard **Uncertainty Quantification (UQ)** practices.
 * **Tech:** PyTorch, TorchVision, NumPy, OpenCV, HuggingFace.
 
-### [Neuro-UQ](https://github.com/PBarkema/Neuro-UQ) | Creator & Researcher (in progress)
-**Biologically-inspired Bayesian model for Uncertainty Quantification and OOD Detection.**
-* **The Concept:** Simulates how the human hippocampus tracks uncertainty and detects context switches, looking inside the "black box" of belief updating.
-* **AI Alignment & Safety:** Motivated by challenges in safe decision-making, this project explores out-of-distribution (OOD) detection and mechanistic interpretability in the brain by separating irreducible environmental noise from model ignorance.
-* **Innovation:** Demonstrates how high-precision priors cause a system to suppress unexpected sensory evidence; providing a biological analog to AI "hallucination" under overconfidence.
-* **Tech:** Python, SciPy, NumPy, Matplotlib, Exact Bayesian Inference.
-
-### [CCI Analysis Pipeline](https://github.com/PBarkema/Donders-IV-code-portfolio) | Inventor & Lead Dev
-**Novel statistical framework for quantifying information from noisy brain responses.**
+### [Neural activation vector analysis](https://github.com/PBarkema/Donders-IV-code-portfolio) | Inventor & Lead Dev
+**Novel statistical framework for quantifying informative vectors from noisy brain responses.**
 * **Innovation:** Invented the **Cross-Category Information (CCI)** metric to investigate "nuisance noise" in neural time series data (MEG).
-* **Math:** Uses **Manifold Learning** and **Subspace Alignment** to prove that trial-by-trial neural variability is structured and functionally relevant to object recognition.
+* **Math:** Uses **Manifold Learning** and **Subspace Alignment** to prove that trial-by-trial neural variability vectors are structured and functionally relevant to object recognition.
 * **Scalability:** Optimized for High-Performance Computing (HPC) to process multi-terabyte datasets.
 * **Tech:** Python (NumPy, SciPy), PCA, Bash.
 
